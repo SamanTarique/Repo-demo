@@ -1,4 +1,4 @@
 # Repo-demo
 this is my first repository
 <br>
-author:Saman Traiq
+author:Saman Traique 
